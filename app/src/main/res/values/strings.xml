@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="java">Java</string>
+    <string name="dart">Dart</string>
+    <string name="java_course">Java Course</string>
+    <string name="kotlin_course">Kotlin Course</string>
+    <string name="dart_course">Dart Course</string>
+
+
+</resources>
